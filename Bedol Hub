@@ -1,0 +1,4 @@
+_G.CloseCombatMode = "Lag" -- [ "Lag","NotLag"  ] -- You can change Lag to NotLag. Lag Is Normal NotLag Is Op
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/3345-c-a-t-s-u-s/-beta-/main/AutoParry.lua"))() 
+
+-- Discord Link: https://discord.com/invite/bedol-hub
